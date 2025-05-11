@@ -1,0 +1,25 @@
+@import url("https://unpkg.com/leaflet@1.9.4/dist/leaflet.css");
+
+#root html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  max-height: 100vh; /* Full viewport height */
+  width: 100%; /* Make sure it fills width */
+  overflow-x: hidden; /* Prevent horizontal scroll if needed */
+  background-image: url("./assets/tempBG.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: auto 100vh; /* Height fills screen, width overflows if needed */
+}
+
+p,
+h1,
+h2,
+label {
+  color: rgb(24, 42, 75);
+}

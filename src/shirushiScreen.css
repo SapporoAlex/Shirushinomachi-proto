@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+}
+
+#createShirushiTable {
+  padding-top: 150px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  z-index: 1000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white; /* Optional for contrast */
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient(to top, rgb(233, 255, 205), rgb(179, 240, 248));
+}
+
+#message-box {
+  height: 4em;
+  width: 80vw;
+  background-color: rgba(243, 243, 182, 0.863);
+  border: 0cap;
+  border-radius: 10px;
+  resize: none;
+  font-size: 2em;
+  margin-bottom: 50px;
+}
+
+.modern-button {
+  border-radius: 25px;
+  height: 50px;
+  width: 50%;
+  background-color: rgb(24, 42, 75);
+  color: white;
+  border: 0px;
+  cursor: pointer;
+}
+
+.selector-grid {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 10px 0;
+}
+
+.selector-grid img {
+  width: 60px;
+  height: 60px;
+  cursor: pointer;
+  border: 10px solid transparent;
+  border-radius: 8px;
+  transition: background-color 0.8s;
+  border-radius: 0px;
+}
+
+.selector-grid img.selected {
+  border-radius: 10px;
+  background-color: rgba(243, 243, 182, 0.863);
+}
