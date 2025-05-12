@@ -1,12 +1,21 @@
-# React + Vite
+# Shirushi-no-Machi App
+This is at the prototype stage of development as of May 2025.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<a href="https://sapporoalex.github.io/Shirushinomachi-proto/"><img src="https://github.com/SapporoAlex/Shirushinomachi-proto/blob/main/android-chrome-192x192.png"></a>
+<caption>Current version hosted on GitHub</caption>
 
-Currently, two official plugins are available:
+## Current Stage
+- Title page
+- Create shirushi page
+- View map page (<a href="https://leafletjs.com/reference.html">leaflet</a>)
+- Shirushi are placed at a random positon within a 500 meter radius of the user.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## To Be Added
+- User sign up
+- Change DB to have the following columns: user (name), premium (bool), marker (list of objects(creation date, colour, shape, message)), age (int or null), gender (char(m,f,o) or null)
+- Change markers to save as objects linked to users.
+- Add API for leaflet map (needed for non-local running)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Authors
+Moe Iguchi Luick (Designer, Creator)
+Alex McKinley (Programmer)
