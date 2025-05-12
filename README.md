@@ -1,4 +1,9 @@
-# Shirushi-no-Machi App
+<div position="fixed" right="200px" top="200px">
+  <a href="#english">EN</a>
+  <a href="japanese">日本語</a>
+</div>
+
+<h1 id="english">Shirushi-no-Machi App</h1>
 This is at the prototype stage of development as of May 2025.
 
 <a href="https://sapporoalex.github.io/Shirushinomachi-proto/"><img src="https://github.com/SapporoAlex/Shirushinomachi-proto/blob/main/android-chrome-192x192.png"></a>
@@ -35,4 +40,61 @@ This is at the prototype stage of development as of May 2025.
 ~Alex McKinley (Programmer)
 
 ## Acknowlegments
+<a href="https://leafletjs.com/">Leaflet</a>
+
+<h1 id="japanese">印のまちアプリ（Shirushi-no-Machi App）</h1>
+このアプリは、2025年5月現在プロトタイプ段階にあります。
+
+<a href="https://sapporoalex.github.io/Shirushinomachi-proto/"><img src="https://github.com/SapporoAlex/Shirushinomachi-proto/blob/main/android-chrome-192x192.png"></a>
+
+<caption>GitHub上で公開中のバージョン</caption>
+## 現在の開発状況
+タイトルページ
+
+印（Shirushi）作成ページ
+
+地図表示ページ（<a href="https://leafletjs.com/">Leaflet</a>使用のスタイライズされた地図）
+
+印は、ユーザーを中心とした半径500メートルの範囲内にランダムに配置されます
+
+印の情報は現在ローカルストレージに保存され、24時間後に自動削除されます
+
+現時点では、ユーザーが配置できる印の数に制限はありません
+
+## 今後の追加予定機能
+ユーザー登録機能
+
+データベース構成の変更（以下のカラムを持たせる予定）:
+
+user（ユーザー名）
+
+premium（プレミアムフラグ：true/false）
+
+marker（オブジェクトのリスト：作成日、色、形、メッセージ）
+
+age（年齢：整数またはnull）
+
+gender（性別：m, f, o または null）
+
+マーカーをユーザーに紐づくオブジェクトとして保存する機能
+
+Leaflet地図のためのAPI導入（ローカル環境以外での動作に必要）
+
+本格的なホスティング
+
+印のデータ可視化ページ
+
+プレミアムユーザー向けの印の記録表示機能
+
+印の色と形の完全選択機能
+
+メッセージ作成時のNGワード検出・検閲機能
+
+## ギャラリー
+<div display="flex" flex-direction="row"> <img src="https://github.com/SapporoAlex/Shirushinomachi-proto/blob/main/demo1.png" height="300px" width="auto"> <img src="https://github.com/SapporoAlex/Shirushinomachi-proto/blob/main/demo2.png" height="300px" width="auto"> <img src="https://github.com/SapporoAlex/Shirushinomachi-proto/blob/main/demo3.png" height="300px" width="auto"> </div>
+## 作者
+〜 井口萌（デザイン・企画）
+〜 アレックス・マッキンリー（プログラム）
+
+## 謝辞
 <a href="https://leafletjs.com/">Leaflet</a>
