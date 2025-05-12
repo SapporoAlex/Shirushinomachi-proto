@@ -20,6 +20,8 @@ This is at the prototype stage of development as of May 2025.
 - Hosting
 - Shirushi data visualisation pages.
 - Shirushi records visibility for premium users.
+- Full selection of colours and shapes for Shirushi
+- Function to censor words out of messages before creation.
 
 ## Gallery
 <div display="flex" flex-direction="row">
