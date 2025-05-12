@@ -1,6 +1,6 @@
-<div position="fixed" right="200px" top="200px">
-  <a href="#english">EN</a>
-  <a href="japanese">日本語</a>
+<div position="fixed" right="200px" top="200px" gap="10px">
+  <a href="#english" background-color="blue" color="white" padding="20px" border-radius="5px" border="1px solid white">EN</a>
+  <a href="japanese" background-color="red" color="white" padding="20px" border-radius="5px" border="1px solid white">日本語</a>
 </div>
 
 <h1 id="english">Shirushi-no-Machi App</h1>
