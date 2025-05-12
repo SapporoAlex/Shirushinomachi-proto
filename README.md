@@ -1,7 +1,4 @@
-<div position="fixed" right="200px" top="200px" gap="10px">
-  <a href="#english" background-color="blue" color="white" padding="20px" border-radius="5px" border="1px solid white">EN</a>
-  <a href="japanese" background-color="red" color="white" padding="20px" border-radius="5px" border="1px solid white">日本語</a>
-</div>
+[EN](#english) | [日本語](#japanese)
 
 <h1 id="english">Shirushi-no-Machi App</h1>
 This is at the prototype stage of development as of May 2025.
@@ -41,6 +38,8 @@ This is at the prototype stage of development as of May 2025.
 
 ## Acknowlegments
 <a href="https://leafletjs.com/">Leaflet</a>
+
+<br>
 
 <h1 id="japanese">印のまちアプリ（Shirushi-no-Machi App）</h1>
 このアプリは、2025年5月現在プロトタイプ段階にあります。
