@@ -1,5 +1,6 @@
 <h1 id="english">Shirushi-no-Machi App</h1>
 This is at the prototype stage of development as of May 2025.
+
 [日本語](#japanese)
 
 <a href="https://sapporoalex.github.io/Shirushinomachi-proto/"><img src="https://github.com/SapporoAlex/Shirushinomachi-proto/blob/main/android-chrome-192x192.png"></a>
@@ -42,6 +43,7 @@ This is at the prototype stage of development as of May 2025.
 
 <h1 id="japanese">印のまちアプリ（Shirushi-no-Machi App）</h1>
 このアプリは、2025年5月現在プロトタイプ段階にあります。
+
 [EN](#english) 
 
 <a href="https://sapporoalex.github.io/Shirushinomachi-proto/"><img src="https://github.com/SapporoAlex/Shirushinomachi-proto/blob/main/android-chrome-192x192.png"></a>
