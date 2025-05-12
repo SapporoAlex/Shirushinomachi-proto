@@ -21,6 +21,11 @@ This is at the prototype stage of development as of May 2025.
 - Shirushi data visualisation pages.
 - Shirushi records visibility for premium users.
 
+## Gallery
+<img src="https://github.com/SapporoAlex/Shirushinomachi-proto/blob/main/demo1.png" height="300px" width="auto">
+<img src="https://github.com/SapporoAlex/Shirushinomachi-proto/blob/main/demo2.png" height="300px" width="auto">
+<img src="https://github.com/SapporoAlex/Shirushinomachi-proto/blob/main/demo3.png" height="300px" width="auto">
+
 ## Authors
 ~Moe Iguchi Luick (Designer, Creator)
 ~Alex McKinley (Programmer)
