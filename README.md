@@ -1,7 +1,6 @@
-[EN](#english) | [日本語](#japanese)
-
 <h1 id="english">Shirushi-no-Machi App</h1>
 This is at the prototype stage of development as of May 2025.
+[日本語](#japanese)
 
 <a href="https://sapporoalex.github.io/Shirushinomachi-proto/"><img src="https://github.com/SapporoAlex/Shirushinomachi-proto/blob/main/android-chrome-192x192.png"></a>
 <caption>Current version hosted on GitHub</caption>
@@ -33,8 +32,8 @@ This is at the prototype stage of development as of May 2025.
 </div>
 
 ## Authors
-~Moe Iguchi Luick (Designer, Creator)
-~Alex McKinley (Programmer)
+- Moe Iguchi Luick (Designer, Creator)
+- Alex McKinley (Programmer)
 
 ## Acknowlegments
 <a href="https://leafletjs.com/">Leaflet</a>
@@ -43,6 +42,7 @@ This is at the prototype stage of development as of May 2025.
 
 <h1 id="japanese">印のまちアプリ（Shirushi-no-Machi App）</h1>
 このアプリは、2025年5月現在プロトタイプ段階にあります。
+[EN](#english) 
 
 <a href="https://sapporoalex.github.io/Shirushinomachi-proto/"><img src="https://github.com/SapporoAlex/Shirushinomachi-proto/blob/main/android-chrome-192x192.png"></a>
 
@@ -92,8 +92,8 @@ Leaflet地図のためのAPI導入（ローカル環境以外での動作に必�
 ## ギャラリー
 <div display="flex" flex-direction="row"> <img src="https://github.com/SapporoAlex/Shirushinomachi-proto/blob/main/demo1.png" height="300px" width="auto"> <img src="https://github.com/SapporoAlex/Shirushinomachi-proto/blob/main/demo2.png" height="300px" width="auto"> <img src="https://github.com/SapporoAlex/Shirushinomachi-proto/blob/main/demo3.png" height="300px" width="auto"> </div>
 ## 作者
-〜 井口萌（デザイン・企画）
-〜 アレックス・マッキンリー（プログラム）
+- 井口萌（デザイン・企画）
+- アレックス・マッキンリー（プログラマー）
 
 ## 謝辞
 <a href="https://leafletjs.com/">Leaflet</a>
