@@ -7,15 +7,23 @@ This is at the prototype stage of development as of May 2025.
 ## Current Stage
 - Title page
 - Create shirushi page
-- View map page (<a href="https://leafletjs.com/reference.html">leaflet</a>)
+- View map page, with stylised map (<a href="https://leafletjs.com/">Leaflet</a>)
 - Shirushi are placed at a random positon within a 500 meter radius of the user.
+- Shirushi are currently saved in local storage, and are removed after 24 hours.
+- The user is not currently limited to how many Shirushi they can place.
 
 ## To Be Added
 - User sign up
 - Change DB to have the following columns: user (name), premium (bool), marker (list of objects(creation date, colour, shape, message)), age (int or null), gender (char(m,f,o) or null)
 - Change markers to save as objects linked to users.
 - Add API for leaflet map (needed for non-local running)
+- Hosting
+- Shirushi data visualisation pages.
+- Shirushi records visibility for premium users.
 
 ## Authors
-Moe Iguchi Luick (Designer, Creator)
-Alex McKinley (Programmer)
+~Moe Iguchi Luick (Designer, Creator)
+~Alex McKinley (Programmer)
+
+## Acknowlegments
+<a href="https://leafletjs.com/">Leaflet</a>
